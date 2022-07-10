@@ -1,0 +1,1 @@
+// Greets a new user when arriving the server

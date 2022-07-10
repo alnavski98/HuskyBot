@@ -1,0 +1,1 @@
+// Pulls a random inspirational quote from the internet
