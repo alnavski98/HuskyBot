@@ -2,7 +2,7 @@
 
 HuskyBot is a simple bot written for Aozora's private Discord server. 
 
-It currently does not contain a lot of features, and I doubt it will ever become usefull. It is purely made to test
+It currently does not contain a lot of features, and I doubt it will ever become useful. It is purely made to test
 javascript skills in the form of a discord bot.
 
 ----------
