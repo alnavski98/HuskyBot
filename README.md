@@ -15,7 +15,7 @@ javascript skills in the form of a discord bot.
 
 ## Features to be added
 - Display current date and time
-- Fetch random inspirational quotes
+- Fetch random inspirational quotes from the web
 - Display information about the server
 - Coinflip for making easier decisions
 - Fetch random pictures of huskies
