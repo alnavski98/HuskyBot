@@ -26,4 +26,4 @@ javascript skills in the form of a discord bot.
 ## Current commands and auto-responses
 
 - `-ping` Makes the bot respond with "pong"
-- `-poll {question}` Creates a poll embed with provided question 
+- `-poll {question}` Creates a poll embed with provided question. If question is not provided instructions on how to use the command is provided.
